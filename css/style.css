@@ -30,8 +30,8 @@ body {font-family: Circular,"Helvetica Neue",Helvetica,Arial,sans-serif;
 }
 .guidebook .destination {
 
-            background-color: white;
-            display: inline;
+                          background-color: white;
+                            display: inline;
 
 }
 
@@ -42,6 +42,9 @@ a {text-decoration: none;
    border: 1px solid black;
 
    padding: 10px 50px;
+
+   background-color: white;
+
 
    }
 
